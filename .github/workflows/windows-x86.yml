@@ -35,5 +35,5 @@ jobs:
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: my-artifacts
-        path: target/
+        name: build_output
+        path: /d/a/bolt/bolt/install_windows-x86_64/
