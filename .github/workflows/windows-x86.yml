@@ -36,4 +36,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: build_output
-        path: /d/a/bolt/bolt/install_windows-x86_64/
+        path: install_windows-x86_64
